@@ -5,7 +5,7 @@ My name is Laura and I am currently a student at Santa Clara University pursuing
 
 If you have any questions, comments, or would like to connect with me professionally, please reach me at the following mediums:
 
-- LinkedIn: https://www.linkedin.com/in/?username=yuanlaura/
+- LinkedIn: https://www.linkedin.com/in/yuanlaura
 - E-mail: yuanlauraaa@gmail.com
 
 I hope you find my GitHub enjoyable and useful!

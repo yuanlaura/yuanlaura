@@ -14,7 +14,7 @@ I hope you find my GitHub enjoyable and useful!
 ### 1. [MSBA Projects](https://github.com/yuanlaura/MSBA-projects)    
    - [Analytics for Finance](https://github.com/yuanlaura/MSBA-projects/tree/main/Analytics-for-Finance): Cryptocurrency Analysis
    - [Dashboards](https://github.com/yuanlaura/MSBA-projects/tree/main/Dashboards): Tableau Dashboard Projects
-   - [Data Analytics with Python](https://github.com/yuanlaura/MSBA-projects/tree/main/Data-Analytics-with-Python): Google Playstore Analysis
+   - [Data Analytics with Python](https://github.com/yuanlaura/MSBA-projects/tree/main/Data-Analytics-with-Python): Google Play store & Apple App store Analysis
    - [Econometrics with R](https://github.com/yuanlaura/MSBA-projects/tree/main/Econometrics-with-R): Unemployment Analysis in the U.S. (2000-2019)
    - [Natural Language Processing](https://github.com/yuanlaura/MSBA-projects/tree/main/Natural-Language-Processing): COVID Vaccine Sentiment Analysis
    - [Database Management Systems - SQL](https://github.com/yuanlaura/MSBA-projects/tree/main/SQL): Netflix Analysis (Pseudo-data)

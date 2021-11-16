@@ -17,4 +17,4 @@ I hope you find my GitHub enjoyable and useful!
    - [Google Play store & Apple App store Analysis](https://github.com/yuanlaura/MSBA-projects/tree/main/Data-Analytics-with-Python)
    - [Unemployment Analysis in the U.S. (2000-2019)](https://github.com/yuanlaura/MSBA-projects/tree/main/Econometrics-with-R)
    - [COVID Vaccine Sentiment Analysis](https://github.com/yuanlaura/MSBA-projects/tree/main/Natural-Language-Processing)
-   - [Netflix Analysis)](https://github.com/yuanlaura/MSBA-projects/tree/main/SQL)
+   - [Netflix Analysis](https://github.com/yuanlaura/MSBA-projects/tree/main/SQL)

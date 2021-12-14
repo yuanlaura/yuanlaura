@@ -1,7 +1,7 @@
 # Hello, welcome to my GitHub! :blush:
 
 ## **About Me**
-My name is Laura and I am currently a student at Santa Clara University pursuing an M.S. degree in Business Analytics. I have obtained my bachelor's degree in Finance and Accounting at the University of San Francisco, and have previously worked at Deloitte as an Audit Assistant. The purpose of my GitHub is to share my personal projects, as well as the projects I have completed as part of the MSBA program. These projects showcase my data analysis and business analysis skills through the applications coding languages such as R, SQL, and Python. 
+My name is Laura and have recently completed my M.S. degree in Business Analytics. I have priorly obtained my bachelor's degree in Finance and Accounting at the University of San Francisco, and have previously worked at Deloitte as an Audit Assistant. The purpose of my GitHub is to share my personal projects, as well as the projects I have completed as part of the MSBA program to showcase my data analysis and business analysis skills through the applications coding languages such as R, SQL, and Python. 
 
 If you have any questions, comments, or would like to connect with me professionally, please reach me at the following mediums:
 
